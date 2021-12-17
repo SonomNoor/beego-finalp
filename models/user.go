@@ -7,8 +7,6 @@ import (
 	"regexp"
 
 	_ "github.com/lib/pq"
-	// "strconv"
-	// "time"
 )
 
 var (
